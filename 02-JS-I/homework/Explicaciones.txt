@@ -1,0 +1,10 @@
+Variables = Sirven para guardar valores que usaremos en el programa.
+Strings = Es un conjunto de letras y/o números.
+Funciones = Sirven para ejecutar una porcion de programa largo mas de una vez usando solo el nombre de 
+la funcion y unos datos llamados argumentos que son valores que les damos a los parametros
+de las funciones. Y los parametros representan valores que el proceso (de creacion de la funcion) espera que pase al llamarlo.
+Argumentos = son valores que les damos a los parametros.
+Declaraciones `if`= Son simplemente una condicion que le damos a una parte del programa para ejecutarse. Literalmente
+en ingles significan "si" de condicion.
+valores booleanos("true", "false") los booleanos se usan para decir si un dato es verdadero o falso como su nombre en
+ingles lo indica.
