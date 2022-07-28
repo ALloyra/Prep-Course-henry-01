@@ -1,0 +1,6 @@
+For = Es una palabra propia de javascript que sirve para repetir codigo tantas veces como sea necesario
+hasta que se cumpla una condcion.
+&& = Es un tipo de comparador de tipo lógico que devuelve verdadero o "True" si todas las condiciones se cumplen.
+|| = Es un tipo de comparador de tipo lógico que devuelve verdadero o "True" si una de las condiciones se cumplen.
+! = Es un tipo de comparador de tipo lógico que devuelve el valor inverso al booleano de una variable y un booleano es un tipo de
+dato que puede ser TRUE o FALSE osea verdadero o faslo.
